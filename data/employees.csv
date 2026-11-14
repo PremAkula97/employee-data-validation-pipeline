@@ -1,0 +1,11 @@
+EMP_ID,EMP_NAME,DEPARTMENT,ANNUAL_PAY
+101,Prem,IT,60000
+102,Priya,Finance,72000
+103,Rahul,Operations,-5000
+104,,Finance,85000
+105,Kiran,IT,0
+106,Divya,HR,84000
+107,Arjun,Finance,
+108,Neha,Operations,65000
+109,Sam,IT,55000
+110,Anjali,Finance,92000

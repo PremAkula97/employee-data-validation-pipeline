@@ -1,0 +1,4 @@
+EMP_ID,EMP_NAME,DEPARTMENT,ANNUAL_PAY,rejection_reason
+103,Rahul,Operations,-5000.0,Negative salary
+104,,Finance,85000.0,Missing employee name
+107,Arjun,Finance,,Missing or invalid salary

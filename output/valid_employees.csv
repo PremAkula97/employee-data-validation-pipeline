@@ -1,0 +1,8 @@
+employee_id,employee_name,department,annual_salary,monthly_salary
+101,Prem,IT,60000.0,5000.0
+102,Priya,Finance,72000.0,6000.0
+105,Kiran,IT,0.0,0.0
+106,Divya,HR,84000.0,7000.0
+108,Neha,Operations,65000.0,5416.67
+109,Sam,IT,55000.0,4583.33
+110,Anjali,Finance,92000.0,7666.67
